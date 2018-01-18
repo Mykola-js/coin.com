@@ -1,0 +1,104 @@
+
+// $border: 1px solid tran;
+
+
+
+// block color
+$b_l_grey: #F0F0F0;
+$b_whi:#FFFFFF;
+$l_g:  linear-gradient(to right, #25AFB4, #9B9ABC);
+$b_body: #F5F5F5;
+$ib_l_grey: #F0F0F0;
+
+// text color
+$t_blavk: #4C5166;
+$t_blue:#25AFB4;
+$t_whi:#FFFFFF;
+$t_grey: #B6BBC1;
+//font-size
+$t_mid: 16px;
+$t_mid_s: 14px;
+
+
+// colors
+// $text: #818181;
+// $text-head: #2B2B2B;
+// $light-bg: #F8F8F8;
+// $block-bg: #fff;
+// $text-btn: #fff;
+// $gray-border: #EDEDED;
+// $gray-border-2: #95989A;
+// $gray: #E1D9DA;
+// $main-color: #36000C;
+
+// $orange: #F27D35;
+// $red: #F8371E;
+// $green: #71BE5A;
+// $white : white;
+
+// $menu-width: 190px;
+// $header-height: 80px;
+
+// $color-white: #fff;
+// $color-body: #F1EDED;
+// $color-border: #E1D9DA;
+// $color-text: #2B2B2B;
+// $color-gray: #818181;
+
+// $color-theme: #724C54;
+// $color-them-dark: #36000C;
+// $color-them-alt: #8E6F76;
+
+// $color-selection: #F2F2F2;
+// $color-placeholder: #B2B2B2;
+
+// $color-text-alt: #8F9497;
+// $color-gray-alt: #F4F2F2;
+// $color-gray-c: #CCCCCC;
+// $color-them-dark-alt: #4D2530;
+// $color-gold: #D4B965;
+// $color-green: #74AC63;
+// $color-red: #C94837;
+
+// $border-radius: 5px;
+// $font-size-default: 14px;
+
+// fonts
+$grey: #CCCCCC;
+$button: #724C54;
+$warning: #C94837;
+$size-login: 14px;
+$auth:18px;
+$mid:16px;
+$col-login: #B2B2B2;
+$black: black;
+$table: #E1D9DA;
+
+$t-min: 10px;
+$light-grey: #818181;
+$t-small: 12px;
+$Rgold: #D4B965;
+$Rgreen: #74AC63;
+$Rred:#C94837;
+$Rbraun: #B7A4A8;
+$menu-bottom: #8F9497;
+
+/*
+Paths
+___________________________*/
+$img-path: "/assets/img";
+$font-path: "/assets/fonts";
+
+
+/*
+Font Face
+___________________________*/
+$font-size-default: 14px;
+
+// Breakpoints
+$phone: "(min-width: 375px)";
+$phone-lg: "(min-width: 480px)";
+$tablet: "(min-width: 768px)";
+$desktop-sm: "(min-width: 992px)";
+$desktop-md: "(min-width: 1200px)";
+
